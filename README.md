@@ -1,7 +1,7 @@
 # Aidan-Anu-Sam
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20There,%20I'm%20Aidan%20Anu%20Sam&fontSize=40&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aidan%20Anu%20Sam&reversal=false&textBg=false&fontSize=80&animation=scaleIn&desc=Student-Developer&descAlignY=57&fontAlignY=43&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Aidan%20Anu%20Sam&reversal=false&textBg=false&fontSize=80&animation=scaleIn&desc=Student-Developer&descAlignY=57&fontAlignY=43&section=header" />
 </p>
 
 <h1 align="center">Hiya 👋, I'm Aidan Anu Sam</h1>
