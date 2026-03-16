@@ -12,19 +12,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/">
+<a href="https://linkedin.com/alaid](https://www.linkedin.com/in/aidan-anu-sam-6ab4a533b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/alaid-10">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/alaid_08">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:aidananusam@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -53,7 +53,7 @@ My focus is on creating solutions that are **innovative, functional, and user-fr
 # 🛠️ Tech I'm Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,discord,github,java,mysql,notion,ps,woordpress" />
 </p>
 
 ---
@@ -61,9 +61,9 @@ My focus is on creating solutions that are **innovative, functional, and user-fr
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=alaid-10&show_icons=true&theme=tokyonight" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaid-10&layout=compact&theme=tokyonight">
 </p>
 
 ---
